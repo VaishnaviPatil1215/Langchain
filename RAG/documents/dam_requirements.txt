@@ -1,0 +1,7 @@
+Developer Activity Mapping (DAM) is a system used
+to track developer skills, experience, projects,
+and learning progress.
+
+The system supports candidate matching,
+developer invitations, recommendations,
+and analytics.

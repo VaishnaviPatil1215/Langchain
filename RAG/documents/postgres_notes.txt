@@ -1,0 +1,10 @@
+PostgreSQL is an open-source relational database.
+
+Features:
+- ACID compliance
+- MVCC
+- JSON support
+- Indexing
+- Replication
+
+PostgreSQL is widely used in enterprise applications.
